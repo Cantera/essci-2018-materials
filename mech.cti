@@ -1,7 +1,7 @@
 units(length='cm', time='s', quantity='mol', act_energy='cal/mol')
 
 ideal_gas(name='gas',
-          elements="H C O N Ar H C O N Ar",
+          elements="H C O N Ar H C O N Ar H C O N Ar H C O N Ar",
           species="""H         H2        O         O2        OH
                      HO2       H2O       H2O2      CO        CO2
                      HCO       CH3       CH4       C2H6      CH2O
